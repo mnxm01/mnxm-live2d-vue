@@ -2,7 +2,9 @@
 在vue中使用live2d
 
 ## 安装
+```
 npm install mnxm-live2d-vue
+```
 
 ## 使用
 main.js
