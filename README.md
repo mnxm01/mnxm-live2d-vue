@@ -17,3 +17,4 @@ page.vue
 ```
 
 ## 示例
+http://live2d.mnxm.work/
