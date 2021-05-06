@@ -6,7 +6,7 @@
 
 <script>
 import "./libs/live2d.min.js";
-import Simple from "../libs/Simple.js";
+import Simple from "./libs/Simple.js";
 import uuidv4 from "uuid/v4";
 
 export default {
